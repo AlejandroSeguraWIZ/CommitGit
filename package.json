@@ -1,0 +1,21 @@
+{
+  "name": "commitgit",
+  "version": "1.0.0",
+  "description": "This is the project's README Change 1 Change 2 Change 3",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroSeguraWIZ/CommitGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroSeguraWIZ/CommitGit/issues"
+  },
+  "homepage": "https://github.com/AlejandroSeguraWIZ/CommitGit#readme"
+}
